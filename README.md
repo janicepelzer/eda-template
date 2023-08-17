@@ -1,6 +1,6 @@
 # ds-project-template
 
-Template for creating ds simple projects
+This is my first EDA-Notebook anaylsing the King County Housing data for a potential Stakeholder. The workflow you can see under the file EDA-Workflow. This Notebook has yet to be organized, cleaned up and documented. 
 
 ## Requirements
 
@@ -36,7 +36,7 @@ pytest
 This command will execute all the functions in your project that start with the word **test**.
 
 
-### Environment
+### Set up Environment
 
 This repo contains a requirements.txt file with a list of all the packages and dependencies you will need. Before you install the virtual environment, make sure to install postgresql if you haven't done it before.
 
